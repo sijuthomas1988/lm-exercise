@@ -1,0 +1,12 @@
+fastapi~=0.85.2
+uvicorn[standard]==0.18.3
+pydantic~=1.10.19
+sqlalchemy[postgresql_asyncpg]
+alembic
+starlette~=0.20.4
+psycopg2-binary
+py-automapper
+retry
+pytest
+requests
+pytest_asyncio
